@@ -1,0 +1,36 @@
+#bbox {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(241, 222, 184);
+    margin-left: 35%;
+    margin-top: 10%;
+    border: solid 5px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+#sbox {
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    justify-items: start;
+    display: flex;
+    position: relative;
+    margin-left: 20px;
+}
+.first {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(54, 126, 127);
+    border: solid 5px;
+    border-color: rgb(245, 245, 245);
+}
+.second {
+    height: 100px;
+    width: 440px;
+    background-color: rgb(54, 126, 127);
+    border: dashed 5px;
+    border-color: rgb(245, 245, 245);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

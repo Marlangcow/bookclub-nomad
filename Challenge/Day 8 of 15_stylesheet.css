@@ -1,0 +1,20 @@
+h1 {
+    font-weight:800;
+}
+body {
+    background-color: rgb(255,255,255);
+}
+.cbox {
+    width: 300px;
+    height: 600px;
+}
+.wbox {
+    width: 300px;
+    height: 200px;
+    font-size: 30px;
+    font-weight: 300;
+    background-color: white;
+}
+#tomato {
+    background-color: tomato;
+}
